@@ -9,6 +9,7 @@ The notebook in this repository can be launched with Binder. However, please obs
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/CexyNature/SARS-CoV-2/master)
 
-This notebook is also available as a web app (currently running in this [url](http://3.81.250.26:5006/appv2)).
+This notebook is also available as a web app (currently running in this [url](http://3.81.250.26:5006/appv2)). This app can be run locally using `bokeh serve --show bokeh-app/main_app.py`
+
 
 <img src="NB_screenshot.png" width="800">
